@@ -1,0 +1,3 @@
+ython-telegram-bot
+requests
+beautifulsoup4
